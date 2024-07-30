@@ -1,0 +1,39 @@
+/* Todos imports tem de ser colocados no início do CSS */
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Calistoga&family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap');
+
+body {
+    background-color: palegoldenrod;
+}
+
+.kaua {
+    width: 350px;
+}
+
+.aguia {
+    width: 600px;
+}
+
+.stitch {
+    width: 520px;
+}
+
+/* classe para configuração de fonte */
+.fonte {
+    color: palevioletred;
+    font-size: 30px;
+    font-family: "Kalnia Glaze", serif;
+}
+
+.fonte2 {
+    font-family: "Dancing Script", serif;
+font-size: 30px;
+color: palevioletred;
+  
+}
+.fonte3{
+        font-family: "Calistoga", serif;
+        font-size: 30px;
+        color: palevioletred; 
+}
